@@ -11,3 +11,10 @@ Siin on minu esimese päringu tulemused Supabase'is:
 Siin on minu teise päringu tulemused:
 
 ![Teine päring](Screenshot_2.png.jpg)
+
+---
+
+## Minu kolmas päring
+Siin on minu kolmanda päringu tulemused:
+
+![Teine päring](Tallinna%20kaupluse%20tehingud.jpg)
