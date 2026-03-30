@@ -1,4 +1,5 @@
 # SQL-Projekt
-Siin on minu esimese päringu tulemused Supabase'is:
+## Minu teine päring
+Siin on minu teise päringu tulemused:
 
-![Andmete tabel](Screenshot%202026-03-30%20125851.jpg)
+![Teine päring](myygid_100.jpg)
