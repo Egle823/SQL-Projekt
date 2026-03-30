@@ -10,4 +10,4 @@ Siin on minu esimese päringu tulemused Supabase'is:
 ## Minu teine päring
 Siin on minu teise päringu tulemused:
 
-![Teine päring](paring2.jpg)
+![Teine päring](Screenshot_2.png)
