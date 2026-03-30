@@ -3,11 +3,11 @@
 ## Esimene päring
 Siin on minu esimese päringu tulemused Supabase'is:
 
-![Andmete tabel](Screenshot 2026-03-30 125851.jpg)
+![Andmete tabel](Screenshot%202026-03-30%20125851.jpg)
 
 ---
 
 ## Minu teine päring
 Siin on minu teise päringu tulemused:
 
-![Teine päring](myygid_100.jpg)
+![Teine päring](paring2.jpg)
